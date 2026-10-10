@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/tox-ini-fmt/commit/862ac086ad15d25561e66cc5b4af7db6acafa80a",
       "git:hexsha": "862ac086ad15d25561e66cc5b4af7db6acafa80a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T22:23:52.650476+00:00"
     },
     {
       "@id": "https://repolex.ai/r/tox-dev/tox-ini-fmt/commit/e20ff830e643ce06d15a7d475ac2eb198d93727c",
