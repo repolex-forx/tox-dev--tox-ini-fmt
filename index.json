@@ -1,0 +1,11 @@
+{
+  "org": "tox-dev",
+  "repo": "tox-ini-fmt",
+  "versions": [
+    {
+      "commit": "862ac086ad15d25561e66cc5b4af7db6acafa80a",
+      "tag": "",
+      "parsed_at": "2026-10-10T22:23:52.651087+00:00"
+    }
+  ]
+}
